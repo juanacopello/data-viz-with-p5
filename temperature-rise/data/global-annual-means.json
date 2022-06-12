@@ -1,0 +1,572 @@
+{
+  "arrTemperatures": [
+    {
+      "anio": 1880,
+      "global": -0.17
+    },
+    {
+      "anio": 1881,
+      "global": -0.08
+    },
+    {
+      "anio": 1882,
+      "global": -0.11
+    },
+    {
+      "anio": 1883,
+      "global": -0.18
+    },
+    {
+      "anio": 1884,
+      "global": -0.29
+    },
+    {
+      "anio": 1885,
+      "global": -0.33
+    },
+    {
+      "anio": 1886,
+      "global": -0.31
+    },
+    {
+      "anio": 1887,
+      "global": -0.36
+    },
+    {
+      "anio": 1888,
+      "global": -0.18
+    },
+    {
+      "anio": 1889,
+      "global": -0.11
+    },
+    {
+      "anio": 1890,
+      "global": -0.35
+    },
+    {
+      "anio": 1891,
+      "global": -0.22
+    },
+    {
+      "anio": 1892,
+      "global": -0.27
+    },
+    {
+      "anio": 1893,
+      "global": -0.32
+    },
+    {
+      "anio": 1894,
+      "global": -0.32
+    },
+    {
+      "anio": 1895,
+      "global": -0.24
+    },
+    {
+      "anio": 1896,
+      "global": -0.11
+    },
+    {
+      "anio": 1897,
+      "global": -0.11
+    },
+    {
+      "anio": 1898,
+      "global": -0.27
+    },
+    {
+      "anio": 1899,
+      "global": -0.18
+    },
+    {
+      "anio": 1900,
+      "global": -0.08
+    },
+    {
+      "anio": 1901,
+      "global": -0.16
+    },
+    {
+      "anio": 1902,
+      "global": -0.28
+    },
+    {
+      "anio": 1903,
+      "global": -0.37
+    },
+    {
+      "anio": 1904,
+      "global": -0.47
+    },
+    {
+      "anio": 1905,
+      "global": -0.26
+    },
+    {
+      "anio": 1906,
+      "global": -0.22
+    },
+    {
+      "anio": 1907,
+      "global": -0.38
+    },
+    {
+      "anio": 1908,
+      "global": -0.42
+    },
+    {
+      "anio": 1909,
+      "global": -0.48
+    },
+    {
+      "anio": 1910,
+      "global": -0.43
+    },
+    {
+      "anio": 1911,
+      "global": -0.44
+    },
+    {
+      "anio": 1912,
+      "global": -0.36
+    },
+    {
+      "anio": 1913,
+      "global": -0.34
+    },
+    {
+      "anio": 1914,
+      "global": -0.15
+    },
+    {
+      "anio": 1915,
+      "global": -0.14
+    },
+    {
+      "anio": 1916,
+      "global": -0.36
+    },
+    {
+      "anio": 1917,
+      "global": -0.46
+    },
+    {
+      "anio": 1918,
+      "global": -0.3
+    },
+    {
+      "anio": 1919,
+      "global": -0.28
+    },
+    {
+      "anio": 1920,
+      "global": -0.27
+    },
+    {
+      "anio": 1921,
+      "global": -0.19
+    },
+    {
+      "anio": 1922,
+      "global": -0.29
+    },
+    {
+      "anio": 1923,
+      "global": -0.27
+    },
+    {
+      "anio": 1924,
+      "global": -0.27
+    },
+    {
+      "anio": 1925,
+      "global": -0.22
+    },
+    {
+      "anio": 1926,
+      "global": -0.11
+    },
+    {
+      "anio": 1927,
+      "global": -0.22
+    },
+    {
+      "anio": 1928,
+      "global": -0.2
+    },
+    {
+      "anio": 1929,
+      "global": -0.36
+    },
+    {
+      "anio": 1930,
+      "global": -0.16
+    },
+    {
+      "anio": 1931,
+      "global": -0.1
+    },
+    {
+      "anio": 1932,
+      "global": -0.16
+    },
+    {
+      "anio": 1933,
+      "global": -0.29
+    },
+    {
+      "anio": 1934,
+      "global": -0.13
+    },
+    {
+      "anio": 1935,
+      "global": -0.2
+    },
+    {
+      "anio": 1936,
+      "global": -0.15
+    },
+    {
+      "anio": 1937,
+      "global": -0.03
+    },
+    {
+      "anio": 1938,
+      "global": 0
+    },
+    {
+      "anio": 1939,
+      "global": -0.01
+    },
+    {
+      "anio": 1940,
+      "global": 0.13
+    },
+    {
+      "anio": 1941,
+      "global": 0.19
+    },
+    {
+      "anio": 1942,
+      "global": 0.07
+    },
+    {
+      "anio": 1943,
+      "global": 0.09
+    },
+    {
+      "anio": 1944,
+      "global": 0.21
+    },
+    {
+      "anio": 1945,
+      "global": 0.09
+    },
+    {
+      "anio": 1946,
+      "global": -0.07
+    },
+    {
+      "anio": 1947,
+      "global": -0.03
+    },
+    {
+      "anio": 1948,
+      "global": -0.11
+    },
+    {
+      "anio": 1949,
+      "global": -0.11
+    },
+    {
+      "anio": 1950,
+      "global": -0.17
+    },
+    {
+      "anio": 1951,
+      "global": -0.07
+    },
+    {
+      "anio": 1952,
+      "global": 0.01
+    },
+    {
+      "anio": 1953,
+      "global": 0.08
+    },
+    {
+      "anio": 1954,
+      "global": -0.13
+    },
+    {
+      "anio": 1955,
+      "global": -0.14
+    },
+    {
+      "anio": 1956,
+      "global": -0.19
+    },
+    {
+      "anio": 1957,
+      "global": 0.05
+    },
+    {
+      "anio": 1958,
+      "global": 0.06
+    },
+    {
+      "anio": 1959,
+      "global": 0.03
+    },
+    {
+      "anio": 1960,
+      "global": -0.03
+    },
+    {
+      "anio": 1961,
+      "global": 0.06
+    },
+    {
+      "anio": 1962,
+      "global": 0.03
+    },
+    {
+      "anio": 1963,
+      "global": 0.05
+    },
+    {
+      "anio": 1964,
+      "global": -0.2
+    },
+    {
+      "anio": 1965,
+      "global": -0.11
+    },
+    {
+      "anio": 1966,
+      "global": -0.06
+    },
+    {
+      "anio": 1967,
+      "global": -0.02
+    },
+    {
+      "anio": 1968,
+      "global": -0.08
+    },
+    {
+      "anio": 1969,
+      "global": 0.05
+    },
+    {
+      "anio": 1970,
+      "global": 0.02
+    },
+    {
+      "anio": 1971,
+      "global": -0.08
+    },
+    {
+      "anio": 1972,
+      "global": 0.01
+    },
+    {
+      "anio": 1973,
+      "global": 0.16
+    },
+    {
+      "anio": 1974,
+      "global": -0.07
+    },
+    {
+      "anio": 1975,
+      "global": -0.01
+    },
+    {
+      "anio": 1976,
+      "global": -0.1
+    },
+    {
+      "anio": 1977,
+      "global": 0.18
+    },
+    {
+      "anio": 1978,
+      "global": 0.07
+    },
+    {
+      "anio": 1979,
+      "global": 0.16
+    },
+    {
+      "anio": 1980,
+      "global": 0.26
+    },
+    {
+      "anio": 1981,
+      "global": 0.32
+    },
+    {
+      "anio": 1982,
+      "global": 0.14
+    },
+    {
+      "anio": 1983,
+      "global": 0.31
+    },
+    {
+      "anio": 1984,
+      "global": 0.15
+    },
+    {
+      "anio": 1985,
+      "global": 0.12
+    },
+    {
+      "anio": 1986,
+      "global": 0.18
+    },
+    {
+      "anio": 1987,
+      "global": 0.32
+    },
+    {
+      "anio": 1988,
+      "global": 0.39
+    },
+    {
+      "anio": 1989,
+      "global": 0.27
+    },
+    {
+      "anio": 1990,
+      "global": 0.45
+    },
+    {
+      "anio": 1991,
+      "global": 0.4
+    },
+    {
+      "anio": 1992,
+      "global": 0.22
+    },
+    {
+      "anio": 1993,
+      "global": 0.23
+    },
+    {
+      "anio": 1994,
+      "global": 0.31
+    },
+    {
+      "anio": 1995,
+      "global": 0.44
+    },
+    {
+      "anio": 1996,
+      "global": 0.32
+    },
+    {
+      "anio": 1997,
+      "global": 0.46
+    },
+    {
+      "anio": 1998,
+      "global": 0.61
+    },
+    {
+      "anio": 1999,
+      "global": 0.38
+    },
+    {
+      "anio": 2000,
+      "global": 0.39
+    },
+    {
+      "anio": 2001,
+      "global": 0.53
+    },
+    {
+      "anio": 2002,
+      "global": 0.62
+    },
+    {
+      "anio": 2003,
+      "global": 0.61
+    },
+    {
+      "anio": 2004,
+      "global": 0.53
+    },
+    {
+      "anio": 2005,
+      "global": 0.67
+    },
+    {
+      "anio": 2006,
+      "global": 0.63
+    },
+    {
+      "anio": 2007,
+      "global": 0.66
+    },
+    {
+      "anio": 2008,
+      "global": 0.54
+    },
+    {
+      "anio": 2009,
+      "global": 0.65
+    },
+    {
+      "anio": 2010,
+      "global": 0.72
+    },
+    {
+      "anio": 2011,
+      "global": 0.6
+    },
+    {
+      "anio": 2012,
+      "global": 0.64
+    },
+    {
+      "anio": 2013,
+      "global": 0.67
+    },
+    {
+      "anio": 2014,
+      "global": 0.74
+    },
+    {
+      "anio": 2015,
+      "global": 0.89
+    },
+    {
+      "anio": 2016,
+      "global": 1.01
+    },
+    {
+      "anio": 2017,
+      "global": 0.92
+    },
+    {
+      "anio": 2018,
+      "global": 0.84
+    },
+    {
+      "anio": 2019,
+      "global": 0.97
+    },
+    {
+      "anio": 2020,
+      "global": 1.01
+    },
+    {
+      "anio": 2021,
+      "global": 0.84
+    }
+  ]
+}
